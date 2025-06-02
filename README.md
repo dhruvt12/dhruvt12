@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **dhruvvinodti@umass.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10khtUiNl0zL0VQEy92-iLbhaV0HdvDy5/view?usp=share_link](https://drive.google.com/file/d/10khtUiNl0zL0VQEy92-iLbhaV0HdvDy5/view?usp=share_link)
+- 📄 📄 [View my Resume](https://drive.google.com/file/d/1dsu_q7BRWtnG2JiEI-8zPux75hQX2HeQ/view?usp=share_link)
 
 - ⚡ Fun fact **🛠️ From AI-powered toys to dashboards ranking U.S. cities, I build things that make both robots and people a little smarter.**
 
