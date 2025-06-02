@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20%F0%9F%91%8B%2C%20I'm%20DHRUV%20TIWARI;Engineering%20%2F%20Industrial%20Management%20%40%20UMass%20Amherst%202025%20%7C%20Data%20%26%20Project%20Ops%20%7C%20Python%2C%20SQL%2C%20BI%20Tools%20%7C%20Logistics%20%26%20Robotics%20Efficiency%20Expert%20%7C%20Open%20to%20Full-Time%20roles%20Summer-2025&center=true&width=1000&height=60&color=0A66C2&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20%F0%9F%91%8B%2C%20I'm%20DHRUV%20TIWARI;Engineering%20%2F%20Industrial%20Management%20%40%20UMass%20Amherst%202025;Data%20%26%20Project%20Ops%20%7C%20Python%2C%20SQL%2C%20BI%20Tools;Logistics%20%26%20Robotics%20Efficiency%20Expert%20%7C%20Open%20to%20Full-Time%20Roles%20Summer%202025&center=true&width=1000&height=60&color=0A66C2&vCenter=true&size=20" alt="Typing SVG" />
 </p>
 
 - 🔭 I've worked on [Aerospace-Project-AirCab-SystemsModel](https://github.com/dhruvt12/Aerospace-Project-AirCab-SystemsModel)
