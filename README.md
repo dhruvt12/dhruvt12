@@ -31,7 +31,7 @@
 
   <!-- Gmail -->
   <a href="mailto:dhruvvinodti@umass.edu" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
