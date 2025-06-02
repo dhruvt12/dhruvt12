@@ -25,13 +25,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dhruvvinodtiwari/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/dhruvvinodtiwari/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:dhruvvinodti@umass.edu" target="_blank">
-    <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" height="30" width="40" />
+  <a href="mailto:dhruvvinodti@umass.edu" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
