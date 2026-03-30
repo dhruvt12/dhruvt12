@@ -1,7 +1,9 @@
+<!-- Professional Header Banner -->
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Dhruv%20Tiwari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engineering%20%7C%20Data%20Analytics%20%7C%20Operations%20%7C%20Systems%20Engineering&descSize=18&descAlignY=55&descColor=ffffff" alt="Header">
+</div>
 
-<!-- Dynamic Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruv+Tiwari;Engineering+%2F+Industrial+Management;UMass+Amherst+%E2%80%9925;Data+%7C+Operations+%7C+Systems+Engineering)](https://git.io/typing-svg)
+<div align="center">
 
 <p>
 <a href="https://www.linkedin.com/in/dhruvvinodtiwari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -16,7 +18,7 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 > Systems-Focused Engineering Leader driving double-digit efficiency gains across logistics, robotics, and data operations.
 
@@ -32,16 +34,74 @@
 
 ## 🏗️ Featured Projects
 
-<p align="left">
-<a href="https://github.com/dhruvt12/Digital-Subscription-users-behavior-Analytics"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=Digital-Subscription-users-behavior-Analytics&theme=tokyonight&hide_border=true" alt="Digital Subscription Analytics"></a>
-<a href="https://github.com/dhruvt12/-TSP-Based-Logistics-Optimization-for-Dairy-Operations-Python-Gurobi-Heuristics"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=-TSP-Based-Logistics-Optimization-for-Dairy-Operations-Python-Gurobi-Heuristics&theme=tokyonight&hide_border=true" alt="TSP Logistics Optimization"></a>
-<a href="https://github.com/dhruvt12/Global-Relocation-Dashboard-Excel-VBA"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=Global-Relocation-Dashboard-Excel-VBA&theme=tokyonight&hide_border=true" alt="Global Relocation Dashboard"></a>
-<a href="https://github.com/dhruvt12/face-mask-detection"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=face-mask-detection&theme=tokyonight&hide_border=true" alt="Face Mask Detection"></a>
-<a href="https://github.com/dhruvt12/Obesity-Estimation-Analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=Obesity-Estimation-Analysis&theme=tokyonight&hide_border=true" alt="Obesity Estimation Analysis"></a>
-<a href="https://github.com/dhruvt12/Aerospace-Project-AirCab-SystemsModel"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=Aerospace-Project-AirCab-SystemsModel&theme=tokyonight&hide_border=true" alt="Aerospace AirCab Systems Model"></a>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Digital Subscription Analytics</h3>
+<p align="center">
+<a href="https://github.com/dhruvt12/Digital-Subscription-users-behavior-Analytics">
+<img src="https://img.shields.io/badge/-View%20Repository-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+</a>
 </p>
+<p align="center"><em>User behavior analytics for digital subscription platforms</em></p>
+</td>
+<td width="50%">
+<h3 align="center">TSP Logistics Optimization</h3>
+<p align="center">
+<a href="https://github.com/dhruvt12/-TSP-Based-Logistics-Optimization-for-Dairy-Operations-Python-Gurobi-Heuristics">
+<img src="https://img.shields.io/badge/-View%20Repository-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+</a>
+</p>
+<p align="center"><em>TSP-based dairy logistics optimization using Python & Gurobi</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Global Relocation Dashboard</h3>
+<p align="center">
+<a href="https://github.com/dhruvt12/Global-Relocation-Dashboard-Excel-VBA">
+<img src="https://img.shields.io/badge/-View%20Repository-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+</a>
+</p>
+<p align="center"><em>Interactive Excel VBA dashboard for global relocation analysis</em></p>
+</td>
+<td width="50%">
+<h3 align="center">Face Mask Detection</h3>
+<p align="center">
+<a href="https://github.com/dhruvt12/face-mask-detection">
+<img src="https://img.shields.io/badge/-View%20Repository-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+</a>
+</p>
+<p align="center"><em>Real-time face mask detection using computer vision</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Obesity Estimation Analysis</h3>
+<p align="center">
+<a href="https://github.com/dhruvt12/Obesity-Estimation-Analysis">
+<img src="https://img.shields.io/badge/-View%20Repository-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+</a>
+</p>
+<p align="center"><em>Analysis of eating habits, physical condition & demographic factors</em></p>
+</td>
+<td width="50%">
+<h3 align="center">Aerospace AirCab Systems</h3>
+<p align="center">
+<a href="https://github.com/dhruvt12/Aerospace-Project-AirCab-SystemsModel">
+<img src="https://img.shields.io/badge/-View%20Repository-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+</a>
+</p>
+<p align="center"><em>Systems model for aerospace air cab project</em></p>
+</td>
+</tr>
+</table>
+</div>
 
+<div align="center">
 <a href="https://github.com/dhruvt12?tab=repositories"><img src="https://img.shields.io/badge/-View%20All%20Repositories-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"></a>
+</div>
 
 ---
 
@@ -101,12 +161,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dhruv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhruvt12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dhruv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvt12&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180px"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvt12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvt12&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img alt="Dhruv's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=dhruvt12&theme=tokyonight&hide_border=true" height="180px"></a>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=dhruvt12&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats">
 </div>
 
 ---
@@ -129,3 +189,6 @@ If you'd like to collaborate or just say hi, feel free to reach out!
 <a href="mailto:dhruvvinodti@umass.edu"><img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" alt="Footer">
