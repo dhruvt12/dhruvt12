@@ -1,39 +1,131 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20%F0%9F%91%8B%2C%20I'm%20DHRUV%20TIWARI;Engineering%20%2F%20Industrial%20Management%20%40%20UMass%20Amherst%202025;Data%20%26%20Project%20Ops%20%7C%20Python%2C%20SQL%2C%20BI%20Tools;Logistics%20%26%20Robotics%20Efficiency%20Expert%20%7C%20Open%20to%20Full-Time%20Roles%20Summer%202025&center=true&width=1000&height=60&color=0A66C2&vCenter=true&size=20" alt="Typing SVG" />
+<div align="center">
+
+<!-- Dynamic Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruv+Tiwari;Engineering+%2F+Industrial+Management;UMass+Amherst+%E2%80%9925;Data+%7C+Operations+%7C+Systems+Engineering)](https://git.io/typing-svg)
+
+<p>
+<a href="https://www.linkedin.com/in/dhruvvinodtiwari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:dhruvvinodti@umass.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://drive.google.com/file/d/1dsu_q7BRWtnG2JiEI-8zPux75hQX2HeQ/view?usp=share_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
+<a href="https://github.com/dhruvt12?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 </p>
 
-- 🔭 I've worked on [Aerospace-Project-AirCab-SystemsModel](https://github.com/dhruvt12/Aerospace-Project-AirCab-SystemsModel)
+<img src="https://komarev.com/ghpvc/?username=dhruvt12&style=for-the-badge&color=0A66C2" alt="Profile Views">
 
-- 📈 I’ve Hands-on Experience in **🤖 Embedded Systems Integration, 📈 Python Optimization Libraries, 🧮 Advanced SQL & Data Pipelines, 📊 Advanced BI Tools, 📦 SAP S/4 HANA, ⚙️ Lean Six Sigma**
+</div>
 
-- ✅ I’ve made a project on [Logistics-Optimization-using-Python-Gurobi](https://github.com/dhruvt12/-TSP-Based-Logistics-Optimization-for-Dairy-Operations-Python-Gurobi-Heuristics)
+---
 
-- 📝 I've worked on [Global-Relocation-Dashboard-Excel-VBA](https://github.com/dhruvt12/Global-Relocation-Dashboard-Excel-VBA)
+## About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhruvt12?tab=repositories](https://github.com/dhruvt12?tab=repositories)
+> Systems-Focused Engineering Leader driving double-digit efficiency gains across logistics, robotics, and data operations.
 
-- 📝 Technical paper presentation at IC-AMCE-2022 [https://jackychaurasiya001.wixsite.com/rbl45](https://jackychaurasiya001.wixsite.com/rbl45)
+- 🎓 **Engineering / Industrial Management** @ **UMass Amherst 2025**
+- 📊 Delivered **15% cost reduction** in UMass logistics using Python & SQL
+- 🤖 Achieved **15% reliability boost** at Miko Robotics through FEA/ALT
+- ⚡ Improved **30% faster system response** via embedded sensor optimization
+- 💰 Managed **$50K+ budgets** scaling hardware/data solutions from prototype to production
+- 🔍 Passionate about **Agile frameworks**, robotics, automotive, and logistics operations
+- 🛠️ Fun fact: From AI-powered toys to dashboards ranking U.S. cities — I build things that make both robots and people a little smarter
 
-- 💬 About me **Systems-Focused Engineering Leader driving double-digit efficiency gains: 15% cost reduction (UMass logistics, Python/SQL), 15% reliability boost (Miko robotics, FEA/ALT) and 30% faster system response (embedded sensors). Oversees $50K+ budgets scaling hardware/data solutions from prototype to production. Applies Agile frameworks to harden robotics, automotive, and logistics operations.**
+---
 
-- 📫 How to reach me **dhruvvinodti@umass.edu**
+## 🏗️ Featured Projects
 
-- 📄 [View my Resume](https://drive.google.com/file/d/1dsu_q7BRWtnG2JiEI-8zPux75hQX2HeQ/view?usp=share_link)
-
-- ⚡ Fun fact **🛠️ From AI-powered toys to dashboards ranking U.S. cities, I build things that make both robots and people a little smarter.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dhruvvinodtiwari/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:dhruvvinodti@umass.edu" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-  </a>
+<a href="https://github.com/dhruvt12/Digital-Subscription-users-behavior-Analytics"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=Digital-Subscription-users-behavior-Analytics&theme=tokyonight&hide_border=true" alt="Digital Subscription Analytics"></a>
+<a href="https://github.com/dhruvt12/-TSP-Based-Logistics-Optimization-for-Dairy-Operations-Python-Gurobi-Heuristics"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=-TSP-Based-Logistics-Optimization-for-Dairy-Operations-Python-Gurobi-Heuristics&theme=tokyonight&hide_border=true" alt="TSP Logistics Optimization"></a>
+<a href="https://github.com/dhruvt12/Global-Relocation-Dashboard-Excel-VBA"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=Global-Relocation-Dashboard-Excel-VBA&theme=tokyonight&hide_border=true" alt="Global Relocation Dashboard"></a>
+<a href="https://github.com/dhruvt12/face-mask-detection"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=face-mask-detection&theme=tokyonight&hide_border=true" alt="Face Mask Detection"></a>
+<a href="https://github.com/dhruvt12/Obesity-Estimation-Analysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=Obesity-Estimation-Analysis&theme=tokyonight&hide_border=true" alt="Obesity Estimation Analysis"></a>
+<a href="https://github.com/dhruvt12/Aerospace-Project-AirCab-SystemsModel"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvt12&repo=Aerospace-Project-AirCab-SystemsModel&theme=tokyonight&hide_border=true" alt="Aerospace AirCab Systems Model"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<a href="https://github.com/dhruvt12?tab=repositories"><img src="https://img.shields.io/badge/-View%20All%20Repositories-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"></a>
+
+---
+
+## 🛠️ Tech Stack
+
+<h3>💻 Languages</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/C++-9C033A?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="VBA">
+</p>
+
+<h3>📊 Data & Analytics</h3>
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+</p>
+
+<h3>🗄️ Databases & Cloud</h3>
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
+</p>
+
+<h3>⚙️ Tools & Frameworks</h3>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
+<img src="https://img.shields.io/badge/Gurobi-EE3524?style=for-the-badge&logoColor=white" alt="Gurobi">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/Lean%20Six%20Sigma-4CAF50?style=for-the-badge&logoColor=white" alt="Lean Six Sigma">
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dhruv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhruvt12&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dhruv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvt12&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180px"></a>
+</div>
+
+<div align="center">
+<a href="https://git.io/streak-stats"><img alt="Dhruv's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=dhruvt12&theme=tokyonight&hide_border=true" height="180px"></a>
+</div>
+
+---
+
+## 📄 Publications & Presentations
+
+📝 **Technical Paper Presentation** at IC-AMCE-2022 — [View Publication](https://jackychaurasiya001.wixsite.com/rbl45)
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+I'm actively looking for **full-time roles** in Data Analytics, BI, Supply Chain, Technical PM, and Operations.
+
+If you'd like to collaborate or just say hi, feel free to reach out!
+
+<a href="https://www.linkedin.com/in/dhruvvinodtiwari/"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:dhruvvinodti@umass.edu"><img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
