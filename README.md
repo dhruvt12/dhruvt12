@@ -8,7 +8,7 @@
 <p>
 <a href="https://www.linkedin.com/in/dhruvvinodtiwari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:dhruvvinodti@umass.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://drive.google.com/file/d/1dsu_q7BRWtnG2JiEI-8zPux75hQX2HeQ/view?usp=share_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
+<a href="https://docs.google.com/document/d/1fAvZkB66KeMRB4oMDLgHvnsmtEqBlvjq/edit?usp=sharing&ouid=112377507213954510507&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
 <a href="https://github.com/dhruvt12?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 </p>
 
